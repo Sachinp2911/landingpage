@@ -1,0 +1,309 @@
+.imgkid{
+	width: 68%;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.mindrow{
+	    border: 2px solid #e1e1e1;
+    border-radius: 13px 13px 13px 13px;
+}
+.childhood {
+    background-color: #fd99bf;
+    padding: 40px 20px;
+    margin-right: 6px;
+    color: #fff;
+	   width: 24%;
+   margin-left: -7px;
+    margin-right: 159px;	  
+    height: 560px;
+
+}
+.classroom {
+    background-color: #5ecab0;
+    padding: 40px 20px;
+    margin-right: 6px;
+    color: #fff;
+    width: 24%;
+   margin-left: -150px;
+    margin-right: 159px;
+    height: 560px;
+
+}
+.children {
+    background-color: #ffbc37;
+    padding: 40px 20px;
+    color: #fff;
+    margin-right: 6px;
+	    width: 24%;
+ margin-left: -151px;
+    margin-right: 159px;   
+    height: 560px;
+
+}
+.home {
+    background-color: #ff7924;
+    padding: 40px 20px;
+    color: #fff;
+	    width: 24%;
+    margin-left: -151px;    
+    height: 560px;
+
+}
+.section01{
+	    width: 1000px;
+    margin-left: 161px;
+	padding-top: 38px;
+	
+}
+.fbox{
+	  background-image: url(background-wave.png);
+    height: 300px !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+element.style {
+}
+.fbox .col-md-2 {
+    background-color: #fff;
+    margin: 5px;
+    padding: 20px;
+}
+.border-primary {
+    border-color: #007bff!important;
+}
+.border {
+    border: 1px solid #dee2e6!important;
+}
+.fbox .col-md-2 svg {
+    height: 60px;
+    width: 60px;
+    background-color: #1975be;
+    padding: 5px;
+    border-radius: 19px;
+    fill: snow;
+}
+.svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+.nav-tabs .nav-link {
+ border: 1px solid transparent;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    background-color: #ed7e22;
+    color: #fff;
+    font-weight: 500;
+    border-color: #dee2e6 #dee2e6 #fff;
+    display: block;
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+.nav-justified .nav-item {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    text-align: center;
+}
+.nav-tabs {
+    border-bottom: 1px solid #dee2e6;
+}
+.nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.tab-content>.active>div{
+    background-color: #f7f2df;
+    border: #dee2e6 solid 1px;
+}
+.pb-5, .py-5 {
+    padding-bottom: 3rem!important;
+}
+
+.fade:not(.show) {
+    opacity: 0;
+}
+.fade {
+    transition: opacity .15s linear;
+}
+    border-color: #e9ecef #e9ecef #dee2e6;
+}
+.nav-link:focus, .nav-link:hover {
+    text-decoration: none;
+}
+.nav-tabs .nav-link.active {
+    background-color: #ed7e22;
+    color: #fff;
+    font-weight: 500;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+.flower5{
+	    width: 8%;
+    margin-top: -273px;
+    margin-left: 55px;
+}
+.flower6{
+	 position: absolute;
+    height: 38%;
+    width: 8%;
+    left: 92%;
+    margin-top: 394px;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+.location-button{
+	background-color: #1B75BC !important;
+    border: none !important;
+    padding: 10px 50px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.flower7{
+	    position: absolute;
+    height: 38%;
+    width: 9%;
+    left: 75%;
+    margin-top: 1795px;
+}
+.form-container {
+    background-color: #3384c6;
+	    height: 585px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    /* line-height: 1.5; */
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#send_otp, #verify {
+    height: 33px;
+    width: 26%;
+    font-size: 12px;
+}
+.form-container button[type=submit] {
+    width: 100%;
+    background-color: #f57d20;
+    color: #fff;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+.form-container form {
+    background-color: #fff;
+    padding: 10px;
+    height: 100%;
+}
+.banner-header {
+    background-image: url(\LP_Deskop-Banner_1012x576.png);
+    background-size: cover;
+    height: 640px;
+    background-position: center;
+    background-repeat: no-repeat;
+	    height: 585px;
+		
+}
+a.navbar-brand {
+    background: #afaaaa;
+    position: absolute;
+    z-index: 99999999;
+    top: 0;
+    padding: 20px;
+	    height: 83px;
+}
+.lazy{
+	height: auto;
+    width: 62	%;
+}
+#carouselExampleSlidesOnly2 .carousel-control-prev {
+    left: -120px;
+}
+#carouselExampleSlidesOnly2 .carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 100px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: no-repeat 50%/100% 100%;
+}
+#carouselExampleSlidesOnly2 .carousel-control-prev-icon {
+    background-image: url(left.png);
+}
+#carouselExampleSlidesOnly2 .carousel-control-next {
+    right: -120px;
+}
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 15%;
+    color: #fff;
+    text-align: center;
+    opacity: .5;
+    transition: opacity .15s ease;
+}
+#carouselExampleSlidesOnly2 .carousel-control-next-icon {
+    background-image: url(right.png);
+}
+#carouselExampleSlidesOnly2 .carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 100px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: no-repeat 50%/100% 100%;
+}
+.carousel-control-next-icon{
+	    width: 100%;
+}
+.carousel-control-prev{
+	    width: 20%;
+}
+.impact, .testimonials {
+    background-color: azure;
+}
+.btn-orange {
+    background-color: #f57d20;
+    color: #fff;
+}
